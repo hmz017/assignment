@@ -1,7 +1,8 @@
 ### how its work 
+
 Import necessary libraries: pandas, matplotlib, statsmodels, sklearn, and math.
 
-Load the dataset into a pandas dataframe using the read_csv() function.
+Load the dataset ('prices.txt') into a pandas dataframe using the read_csv() function.
 
 Convert the 'Date' column of the dataframe to a datetime object using pd.to_datetime() and set it as the index of the dataframe using set_index().
 
