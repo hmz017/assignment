@@ -30,5 +30,5 @@ Fit an ARIMA model to the training set, make forecasts on the test set, and eval
 Evaluate the performance of the forecasts using root mean squared error (RMSE)
 
 
-plot forecasts against actual outcomes
+plot forecasts against actual outcomes that present with blue line for actual prices and the red line for predctied prices.
 
