@@ -1,3 +1,4 @@
+### how its work 
 Import necessary libraries: pandas, matplotlib, statsmodels, sklearn, and math.
 
 Load the dataset into a pandas dataframe using the read_csv() function.
