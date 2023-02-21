@@ -1,0 +1,12 @@
+The ImageStatisticsCalculator class has four public properties: Mean, StandardDeviation, MinValue, and MaxValue. These will be set by the CalculateStatistics method.
+The CalculateStatistics method takes a string parameter called imagePath that specifies the path to the image file. It opens the file as a binary file and creates a BinaryReader object to read the binary data.
+The method reads the image header, which contains information about the image dimensions, bytes per pixel, and stride. It then verifies that the image is an 8-bit grayscale image.
+The method reads the pixel data into a byte array.
+The method calculates the mean gray value by summing all the pixel values and dividing by the number of pixels.
+The method calculates the variance of the pixel values, and then the standard deviation from the variance.
+The method finds the minimum and maximum gray values by iterating through the pixel data.
+Note that there is some commented-out code in the CalculateStatistics method that checks whether the image is an 8-bit grayscale image.
+ This code is not used in the current implementation it will be useful if you need to add more specific image type checks in the future.
+
+To use this code, we must create an instance of the ImageStatisticsCalculator class and call its CalculateStatistics method with the path to the image file as a parameter. The calculated statistics would then be available through the class properties. 
+I already create it, save it in pro.cs and you can use it for any image you want just replace the image path with yours 
