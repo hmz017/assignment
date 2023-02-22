@@ -1,11 +1,8 @@
-### As part of my efforts to ensure that the tasks were organized and easily accessible, I have created five separate folders, with each task housed in its own dedicated folder, for examle: if you want to run the first task you need to download  the file called task1 with all contant inside it then run the project.
+### In order to make the tasks more organized and accessible, I have created separate folders for each task. To run a task, simply download the corresponding folder and open the included Jupyter notebook file (.ipynb).
 
+### To ensure that you have all the necessary information to complete each task accurately and efficiently, I have also included a "read me" file within each folder.
 
-### To ensure that the information is presented in a clear and concise manner, I have included a "read me" file within each folder. This file contains vital instructions and essential details about the corresponding task, ensuring that the project can be completed with the utmost accuracy and efficiency.
-
-
-### and To ensure that the project runs smoothly, there are a few additional requirements that must be installed. Please ensure that the following items are installed on the relevant systems before attempting to run the project:
-
+### Please note that in order to run the project smoothly, there are some additional requirements that must be installed beforehand. Kindly ensure that these requirements are installed on your system prior to attempting to run the project.
 
 - Jupyter notebook You can use it on anaconda or on visual studio, On anaconda it will be already there, on visual studio you must download the extension of Jupyter notebook
 Then I used 
