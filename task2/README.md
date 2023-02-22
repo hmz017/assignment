@@ -8,8 +8,9 @@ note: run time 60 min on 50 epochs with 96% validation accuracy and 94% train ac
       run time 10 min on 7 epochs with 92% validation accuracy and 90% train accuracy.
 
 ### important 
-this link contain a file named medical mask you have to download it and save it in task2 :
+ 1- this link contain a file named medical mask you have to download it and save it in task2 :
 https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset
+ 2-save file task2 and task3 in the same folder please, thank you  
 
 ### how its work
 
